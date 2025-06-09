@@ -4,15 +4,12 @@ permalink: /about/
 layout: page
 ---
 
-I’m a geospatial scientist and remote sensing researcher passionate about solving environmental problems with data and technology.
+I recently completed my Ph.D. in Geography with area of emphasis on GIS, where I developed data-driven methods to quantify forest canopy complexity and ecosystem processes using airborne LiDAR and hyperspectral imagery. I’m currently a postdoctoral researcher, applying machine learning and terrestrial laser scanning (TLS) to map forest canopy structure and leaf traits and how they interact with climate across forest sites in the U.S. 
 
-I earned my Ph.D. in Geography from West Virginia University, where I developed methods to map forest canopy structure and leaf traits using terrestrial laser scanning (TLS), hyperspectral data, and NEON field campaigns. I’m currently a postdoctoral researcher at the University of Virginia, applying those methods to understand how forest architecture and climate interact across diverse ecosystems.
-
-**Skills**:
-- Remote Sensing: TLS, airborne LiDAR, hyperspectral imaging, UAVs  
-- GIS & Analysis: ArcGIS Pro, QGIS, Google Earth Engine  
-- Programming: Python, R, bash scripting  
-- Data: NEON AOP/TOS, climate, species traits, ecological time series  
-- Visualization: ggplot2, matplotlib, Leaflet, StoryMaps  
+I specialize in: 
+- GIS Analysis & decision support tools: ESRI software, QGIS, Google Earth Engine
+- Large-scale multi-source environmental data integration 
+- LiDAR and multi-/hyper-spectral image analysis 
+- Cloud-based spatial analytics Explore my portfolio of research projects, spatial analysis/tools, and data products built with Python, R, GEE, and cloud platforms. 
 
 Feel free to reach out for collaborations, data-driven projects, or coffee chats!
