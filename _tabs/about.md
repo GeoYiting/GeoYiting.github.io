@@ -17,7 +17,7 @@ I specialize in:
 Explore my portfolio of research projects, spatial analysis/tools, and data products built with Python, R, GEE, and cloud platforms. 
 
 📄 [Download My CV](./CV_Fan_Yiting.pdf) 
-🔗 [GitHub](https://github.com/GeoYiting) · [LinkedIn](www.linkedin.com/in/fanyt)
+🔗 [GitHub](https://github.com/GeoYiting) · [LinkedIn](https://www.linkedin.com/in/fanyt)
 
 Feel free to reach out for collaborations, data-driven projects, or coffee chats!
 
