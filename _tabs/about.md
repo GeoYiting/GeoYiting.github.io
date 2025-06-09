@@ -2,7 +2,7 @@
 title: About
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 2
+order: 1
 ---
 Welcome! I'm a geospatial data scientist with 6+ years' experience in advanced remote sensing, GIS and imaging processing. I'm passionate about using geospatial technologies to solve real-world environmental challenges and bring ecological insight into scalable, cloud-based solutions.
 
