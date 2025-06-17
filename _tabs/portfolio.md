@@ -2,6 +2,8 @@
 title: Portfolio
 icon: fas fa-project-diagram
 order: 2
-layout: tag
-tag: portfolio
+layout: home
+pagination:
+  enabled: true
+  category: portfolio
 ---
