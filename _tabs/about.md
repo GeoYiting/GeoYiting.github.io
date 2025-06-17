@@ -4,7 +4,7 @@ title: About
 icon: fas fa-info-circle
 order: 1
 ---
-Welcome! I'm a geospatial data scientist with 6+ years' experience in advanced remote sensing, GIS and imaging processing. I'm passionate about using geospatial technologies to solve real-world environmental challenges and bring ecological insight into scalable, cloud-based solutions.
+Welcome! I'm a geospatial data scientist with 7+ years' experience in advanced remote sensing, GIS and imaging processing. I'm passionate about using geospatial technologies to solve real-world environmental challenges and bring ecological insight into scalable, cloud-based solutions.
 
 I recently completed my Ph.D. in Geography with area of emphasis on GIS, where I developed data-driven methods to quantify forest canopy complexity and ecosystem processes using airborne LiDAR and hyperspectral imagery. I’m currently a postdoctoral researcher, applying machine learning and terrestrial laser scanning (TLS) to map forest canopy structure and leaf traits and how they interact with climate across forest sites in the U.S. 
 
