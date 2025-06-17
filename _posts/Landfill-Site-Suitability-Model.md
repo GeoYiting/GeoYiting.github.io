@@ -74,7 +74,7 @@ Full MCDA-based GIS workflow:
   - **Model 1:** Near Cassville (20 min to Morgantown)
   - **Model 2:** Near Glory Barn Road (15 min)
 
-![Candidate Sites Map](/assets/result.png)
+![Candidate Sites Map](/assets/result.JPG)
 
 ## 📈 Cost Distance Outputs
 
