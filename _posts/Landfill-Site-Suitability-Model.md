@@ -28,6 +28,16 @@ This project develops a GIS-based **multi-criteria decision analysis (MCDA)** mo
 
 ## 🛠 Methodology
 
+## 🗺 Study Area and Extent
+
+Location of Monongalia County and Morgantown, WV:
+![Study Area Map](/assets/MapExtent.JPG)
+
+## 🔁 GIS Workflow for Landfill Site Suitability Modeling
+
+Full MCDA-based GIS workflow:
+![Model Workflow Diagram](/assets/Workflow.JPG)
+
 ### 1. Candidate Site Selection
 - **Hydrology:** Exclude areas within 500m (Model 1) and 600m (Model 2) of waterways
 - **Landcover:** Only pasture, grassland, or reclaimed mines allowed
@@ -52,8 +62,11 @@ This project develops a GIS-based **multi-criteria decision analysis (MCDA)** mo
 - Total cost surface = Slope Cost + Road Cost
 - Cost-distance analysis run from Morgantown to each candidate site
 - Optimal site = lowest accumulated cost
+  
+Full MCDA-based GIS workflow:
+![Criteria maps of model 1 (above) and 2 (below)](/assets/landfill_model.png)
 
-## 🗺 Results Overview
+## 📊 Results Overview
 
 - **Model 1** produced 5 candidate sites, mostly west of Morgantown
 - **Model 2** (stricter hydrology and slope criteria) yielded 2 sites, both in Little Indian Creek WMA
@@ -61,7 +74,13 @@ This project develops a GIS-based **multi-criteria decision analysis (MCDA)** mo
   - **Model 1:** Near Cassville (20 min to Morgantown)
   - **Model 2:** Near Glory Barn Road (15 min)
 
-![Candidate Sites Map](/assets/landfill_model.png)
+![Candidate Sites Map](/assets/result.png)
+
+## 📈 Cost Distance Outputs
+
+Travel cost surfaces derived from road and slope weights:
+
+![Cost Effect Maps](/assets/costeffect.JPG)
 
 ## 📈 Discussion
 
@@ -82,12 +101,7 @@ This project develops a GIS-based **multi-criteria decision analysis (MCDA)** mo
 
 ## 📂 Downloads
 
-- 📄 [Full Report PDF](LINK_TO_PDF_IF_PUBLIC)
-- 💾 [GitHub Repository](https://github.com/yourusername/landfill-site-model) *(optional)*
+- 📄 [Full Report PDF](/assets/Landfill_Site_Suitability_Model.pdf)
 
 ---
 
-Let me know if you'd like me to format more posts like this for your other projects.
-Also: please upload a screenshot or thumbnail (e.g., `landfill_model.jpg`) and place it in `/assets/img/`.
-
-Would you like me to help you add this post and the tab directly to your site repo next?
