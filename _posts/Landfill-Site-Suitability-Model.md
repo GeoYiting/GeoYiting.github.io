@@ -30,10 +30,8 @@ This project develops a GIS-based **multi-criteria decision analysis (MCDA)** mo
 
 ## 🗺 Study Area and Extent
 
-<figure style="text-align: center;">
-  <img src="/assets/img/MapExtent.JPG" width="400">
-  <figcaption>Location of Monongalia County and Morgantown, WV</figcaption>
-</figure>
+![Study Area Map](/assets/MapExtent.JPG)
+Location of Monongalia County and Morgantown, WV
 
 ## 🔁 GIS Workflow for Landfill Site Suitability Modeling
 
