@@ -3,7 +3,8 @@ layout: page
 icon: fas fa-project-diagram
 order: 2
 title: Portfolio
-permalink: /portfolio/
+layout: tag
+tag: portfolio
 ---
 <div class="portfolio-container">
 
