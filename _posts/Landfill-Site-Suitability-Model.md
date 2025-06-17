@@ -63,7 +63,7 @@ Full MCDA-based GIS workflow:
 - Cost-distance analysis run from Morgantown to each candidate site
 - Optimal site = lowest accumulated cost
   
-Full MCDA-based GIS workflow:
+Criteria maps of model 1 (above) and 2 (below):
 ![Criteria maps of model 1 (above) and 2 (below)](/assets/landfill_model.png)
 
 ## 📊 Results Overview
