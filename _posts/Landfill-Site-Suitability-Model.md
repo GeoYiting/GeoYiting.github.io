@@ -61,7 +61,7 @@ This project develops a GIS-based **multi-criteria decision analysis (MCDA)** mo
   - **Model 1:** Near Cassville (20 min to Morgantown)
   - **Model 2:** Near Glory Barn Road (15 min)
 
-![Candidate Sites Map](/assets/landfill_model.jpg)
+![Candidate Sites Map](/assets/landfill_model.png)
 
 ## 📈 Discussion
 
