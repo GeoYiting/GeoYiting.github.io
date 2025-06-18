@@ -1,5 +1,5 @@
 ---
-title: "Landfill Site Suitability Modeling"
+title: "Landfill Site Suitability Model"
 date: 2022-01-07 00:00:00 +0000
 categories: [portfolio]
 image:
