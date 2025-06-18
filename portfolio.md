@@ -35,7 +35,7 @@ permalink: /portfolio/
   <img src="/assets/landfill_model.png" alt="Landfill model">
   <h2>Landfill Suitability Modeling</h2>
   <p>Mapped optimal landfill sites in WV using GIS-MCDA with slope, hydrology, and roads.</p>
-  <a href="/2022/01/07/Landfill-Site-Suitability-Model/">Read More →</a>
+  <a href="/2022/01/07/landfill-site-suitability-modeling/">Read More →</a>
 </div>
 
 <!-- Add more cards here as you create posts -->
