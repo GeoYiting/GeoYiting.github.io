@@ -1,7 +1,5 @@
 ---
-icon: fas fa-project-diagram
+layout: tags
+icon: fas fa-tags
 order: 2
-layout: home
-title: Portfolio
-permalink: /portfolio/
 ---
