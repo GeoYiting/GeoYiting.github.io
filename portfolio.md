@@ -32,7 +32,7 @@ permalink: /portfolio/
 <div class="card-list">
 
 <div class="card">
-  <img src="/assets/img/landfill_model.png" alt="Landfill model">
+  <img src="/assets/landfill_model.png" alt="Landfill model">
   <h2>Landfill Suitability Modeling</h2>
   <p>Mapped optimal landfill sites in WV using GIS-MCDA with slope, hydrology, and roads.</p>
   <a href="/2024/06/23/portfolio-test/">Read More →</a>
