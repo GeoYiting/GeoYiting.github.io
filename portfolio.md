@@ -48,14 +48,15 @@ permalink: /portfolio/
 <div class="portfolio-grid">
 
   <div class="portfolio-card">
-    <img src="/assets/landfill_model.png" alt="Landfill model">
+    <img src="/assets/landfill_model.png" alt="Landfill Suitability Model">
     <div class="portfolio-card-content">
       <h3>Landfill Site Suitability Modeling</h3>
-      <p>Developed a GIS-based MCDA model to identify optimal landfill sites using slope, land cover, roads, and hydrology layers.</p>
+      <p>
+        Developed a GIS-based MCDA model to identify optimal landfill sites in Monongalia County, WV 
+        using slope, hydrology, land cover, and road proximity layers.
+      </p>
       <a href="/assets/Landfill-Site-Suitability-Model.pdf" target="_blank">View Full Report →</a>
     </div>
   </div>
-
-  <!-- Add more cards below -->
 
 </div>
