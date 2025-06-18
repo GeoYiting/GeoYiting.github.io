@@ -1,6 +1,6 @@
 ---
 title: "Landfill Site Suitability Modeling"
-date: 2020-01-07 00:00:00 +0000
+date: 2022-01-07 00:00:00 +0000
 categories: [portfolio]
 image:
   path: /assets/landfill_model.png
