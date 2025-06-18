@@ -6,25 +6,52 @@ permalink: /
 
 <style>
 .hero {
+  position: relative;
   background-image: url('/assets/bg.png');
   background-size: cover;
   background-position: center;
-  padding: 100px 30px;
+  padding: 120px 30px;
   color: white;
   text-align: center;
   border-radius: 12px;
+  overflow: hidden;
 }
-.hero h1 {
-  font-size: 2.8rem;
-  margin-bottom: 1rem;
+
+/* dark transparent overlay over the image */
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* adjust transparency here */
+  z-index: 1;
 }
-.hero p {
-  font-size: 1.2rem;
+
+/* translucent box for text */
+.hero-content {
+  position: relative;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.15); /* translucent white */
+  padding: 40px;
+  border-radius: 12px;
+  display: inline-block;
   max-width: 800px;
-  margin: auto;
-  margin-bottom: 2rem;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
 }
-.hero a {
+
+.hero-content h1 {
+  font-size: 2.6rem;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.hero-content a {
   display: inline-block;
   background-color: rgba(0, 123, 255, 0.9);
   color: white;
@@ -33,15 +60,18 @@ permalink: /
   text-decoration: none;
   font-weight: bold;
 }
-.hero a:hover {
+
+.hero-content a:hover {
   background-color: rgba(0, 90, 200, 0.9);
 }
 </style>
 
 <div class="hero">
-  <h1>Hello! Welcome to my portfolio</h1>
-  <p>I recently completed my Ph.D. in Geography with a certificate in GIS and Spatial Analysis.  
-  I enjoy working with all things GIS, LiDAR, and remote sensing.  
-  Scroll down to explore my research and project work.</p>
-  <a href="/portfolio/">View Portfolio</a>
+  <div class="hero-content">
+    <h1>Hello! Welcome to my portfolio</h1>
+    <p>I recently completed my Ph.D. in Geography with a certificate in GIS and Spatial Analysis.  
+    I enjoy working with all things GIS, LiDAR, and remote sensing.  
+    Scroll down to explore my research and project work.</p>
+    <a href="/portfolio/">View Portfolio</a>
+  </div>
 </div>
