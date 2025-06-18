@@ -1,7 +1,7 @@
 ---
-title: "Landfill Site Suitability Modeling in Monongalia County, WV"
+title: "Landfill Site Suitability Modeling"
 date: 2020-01-07 00:00:00 +0000v
-tags: [portfolio]
+categories: [portfolio]
 image:
   path: /assets/landfill_model.png
   alt: "Landfill Suitability GIS Model"
